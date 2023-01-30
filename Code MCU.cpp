@@ -34,3 +34,6 @@ using namespace std;
  int battery_TEMPERATURE;
  int RELEASE;
  
+int main(){
+    
+}
